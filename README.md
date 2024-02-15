@@ -1,5 +1,7 @@
 # Intern-Projects
 
+## BRANCHES
+
 ## 1 • Implementing a Figma Design with React/Next.js
 
 ## 2 • React Form with Validation
